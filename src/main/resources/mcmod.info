@@ -1,0 +1,16 @@
+[
+{
+  "modid": "itemider",
+  "name": "Item Identifier",
+  "description": "Adds a command to grab the item name, damage value, and NBT data of an item.",
+  "version": "0.5",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MattDahEpic"],
+  "credits": "Only me.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
