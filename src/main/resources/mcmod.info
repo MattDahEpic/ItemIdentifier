@@ -3,7 +3,7 @@
   "modid": "itemider",
   "name": "Item Identifier",
   "description": "Adds a command to grab the item name, damage value, and NBT data of an item.",
-  "version": "0.5",
+  "version": "1.0",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
